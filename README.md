@@ -13,7 +13,7 @@ Newsweek web page cloned as the sixth project for Microverse. https://www.newswe
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://cgcarlosg.github.io/Newsweek-clone/.)
 
 
 ## Getting Started
@@ -47,7 +47,7 @@ This projects diplays the videos.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page]().
+Feel free to check the [issues page](https://github.com/cgcarlosg/Newsweek-clone/issues).
 
 
 ## Show your support

@@ -1,0 +1,55 @@
+* {
+  box-sizing: border-box;
+  }
+
+.color-top {
+    background-color: tomato  ;
+}
+
+.colorone {
+  background-color: aquamarine;
+}
+
+.colortwo {
+    background-color: pink;
+  }
+
+.colorthree {
+  background-color: violet;
+}
+
+.colorfour {
+    background-color: yellow;
+  }
+  
+  .colorfive {
+      background-color: blue;
+    }
+  
+  .colorsix {
+    background-color: red;
+  }
+
+  .colorseven {
+    background-color: green;
+  }
+
+  .coloreight {
+    background-color: cyan;
+  }
+  
+  .colornine {
+      background-color: tomato;
+    }
+  
+  .colorten {
+    background-color: blueviolet;
+  }
+
+  .coloreleven {
+    background-color: blanchedalmond;
+  }
+
+  .colorfoot {
+  background-color: cadetblue;
+  }

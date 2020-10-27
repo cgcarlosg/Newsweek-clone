@@ -1,55 +1,108 @@
 * {
   box-sizing: border-box;
-  }
+}
 
 .color-top {
-    background-color: tomato  ;
+  background-color: tomato  ;
 }
 
-.colorone {
-  background-color: aquamarine;
+.first-column {
+  display: flex;
+  flex-direction: column;
+  background-color: blueviolet;
 }
+
+.pictone {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.img-of-article-left-top {
+  width: 100%;
+}
+
+.second-column {
+  display: flex;
+  flex-direction: column;
+  background-color: brown;
+}
+
+.picttwo {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+
+.third-column {
+  padding-right: 15px;
+  padding-left: 15px;
+  background-color: chartreuse;
+}
+
+.pictthree {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.right-article {
+  display: flex;
+  flex-direction: row;
+}
+
+.little-img-art {
+  margin-right: 15px;
+}
+
+.pict-little {
+  width: 63px;
+  height: 63px;
+  margin-right: 15px;
+}
+
+
+
+
+
 
 .colortwo {
-    background-color: pink;
-  }
+  background-color: pink;
+}
 
 .colorthree {
   background-color: violet;
 }
 
 .colorfour {
-    background-color: yellow;
-  }
-  
-  .colorfive {
-      background-color: blue;
-    }
-  
-  .colorsix {
-    background-color: red;
-  }
+  background-color: yellow;
+}
+.colorfive {
+  background-color: blue;
+}
 
-  .colorseven {
-    background-color: green;
-  }
+.colorsix {
+  background-color: red;
+}
 
-  .coloreight {
-    background-color: cyan;
-  }
-  
-  .colornine {
-      background-color: tomato;
-    }
-  
-  .colorten {
-    background-color: blueviolet;
-  }
+.colorseven {
+  background-color: green;
+}
 
-  .coloreleven {
-    background-color: blanchedalmond;
-  }
+.coloreight {
+  background-color: cyan;
+}
 
-  .colorfoot {
+.colornine {
+  background-color: tomato;
+}
+
+.colorten {
+  background-color: blueviolet;
+}
+
+.coloreleven {
+  background-color: blanchedalmond;
+}
+
+.colorfoot {
   background-color: cadetblue;
-  }
+}

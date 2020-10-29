@@ -1,7 +1,7 @@
 # Newsweek-clone
 Newsweek web page cloned as the seventh project for Microverse. https://www.newsweek.com/
 
-![screenshot]()
+![screenshot](https://github.com/cgcarlosg/Newsweek-clone/blob/clone/assets/screenchot.jpg)
 
 
 ## Built With
@@ -42,7 +42,10 @@ This projects diplays the videos.
 - Twitter: [@cgcarlosg1](https://twitter.com/cgcarlosg1)
 - LinkedIn: [@carlosalbeniogutierrez](https://linkedin.com/in/carlosalbeniogutierrez)
 
-
+👨🏻‍💻 **Okiror Erasmus Mugadya**
+- GitHub: [@genius8](https://github.com/Genius8)
+- Twitter: [@erasmus_okiror](https://twitter.com/erasmus_okiror)
+- LinkedIn: [@erasmus-okiror](https://www.linkedin.com/in/erasmus-okiror-126363130/)
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!

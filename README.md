@@ -1,5 +1,6 @@
 # Newsweek-clone
-Newsweek web page cloned as the seventh project for Microverse. https://www.newsweek.com/
+This is a cloned page from the original web page  https://www.newsweek.com/
+It has been done as part of the microverse curriculum
 
 ![screenshot](https://github.com/cgcarlosg/Newsweek-clone/blob/clone/assets/screenchot.jpg)
 

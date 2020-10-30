@@ -554,6 +554,11 @@ article .img-third-col {
   width: 100%;
 }
 
+.footer-first-ul {
+  font-weight: 400;
+  font-size: 14px;
+}
+
 .three-complex {
   position: relative;
 }

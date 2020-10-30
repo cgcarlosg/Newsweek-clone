@@ -167,17 +167,6 @@ article .img-third-col {
   font-weight: bold;
 }
 
-.clearfix h4 a {
-  font-family: "Roboto condensed", sans-serif;
-  margin-bottom: 10px;
-  position: relative;
-  color: black;
-  font-weight: bold;
-  text-decoration: none;
-  font-size: 17px;
-  line-height: 20px;
-}
-
 .category-down2 a {
   color: red;
   text-decoration: none;
@@ -195,10 +184,6 @@ article .img-third-col {
   line-height: 30px;
 }
 
-.container-last-part-logo a:hover {
-  background-color: rgb(93, 93, 216);
-}
-
 .footer-first-ul a {
   font-size: 14px;
   line-height: 15px;
@@ -210,6 +195,21 @@ article .img-third-col {
   font-size: 14px;
   color: gray;
   font-weight: bold;
+}
+
+.clearfix h4 a {
+  font-family: "Roboto condensed", sans-serif;
+  margin-bottom: 10px;
+  position: relative;
+  color: black;
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 17px;
+  line-height: 20px;
+}
+
+.container-last-part-logo a:hover {
+  background-color: rgb(93, 93, 216);
 }
 
 .first-list-nav a {
@@ -256,6 +256,11 @@ article .img-third-col {
   text-decoration: none;
   background-color: lightgray;
   color: black;
+}
+
+.second-ul-nav a:hover {
+  color: red;
+  text-decoration: none;
 }
 
 .clearfix h4 a:hover {
@@ -535,6 +540,10 @@ article .img-third-col {
   white-space: nowrap;
 }
 
+.second-ul-nav li {
+  white-space: nowrap;
+}
+
 .container-last-part-logo ul li {
   display: inline-block;
   width: 30px;
@@ -547,7 +556,6 @@ article .img-third-col {
 
 .three-complex {
   position: relative;
-  height: fit-content;
 }
 
 .three-column-complex {
@@ -563,7 +571,7 @@ article .img-third-col {
   background-color: #f72210;
 }
 
- .brand {
+.brand {
   width: 400px;
   height: 100%;
   fill: white;
@@ -578,13 +586,4 @@ article .img-third-col {
 .form-style {
   border: 0;
   width: 50px;
-}
-
-.second-ul-nav li {
-  white-space: nowrap;
-}
-
-.second-ul-nav a:hover {
-  color: red;
-  text-decoration: none;
 }

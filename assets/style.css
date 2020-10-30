@@ -197,6 +197,13 @@ article .img-third-col {
   font-weight: bold;
 }
 
+.first-list-nav a {
+  font-family: 'roboto', condensed, sans-serif;
+  font-size: 17px;
+  color: #000;
+  font-weight: bold;
+}
+
 .clearfix h4 a {
   font-family: "Roboto condensed", sans-serif;
   margin-bottom: 10px;
@@ -210,13 +217,6 @@ article .img-third-col {
 
 .container-last-part-logo a:hover {
   background-color: rgb(93, 93, 216);
-}
-
-.first-list-nav a {
-  font-family: 'roboto', condensed, sans-serif;
-  font-size: 17px;
-  color: #000;
-  font-weight: bold;
 }
 
 .first-list-nav a:hover {
